@@ -26,7 +26,7 @@ div.center {
 }
 
 div { 
-    width: 1000px;
+    width: 1200px;
     height: 30px; 
     margin: 0px auto; 
 }
@@ -53,10 +53,13 @@ a {
 }
 
 table {
-    width: 800px;
     margin: auto;
     font-family: Bookman Old Style; 
     color: #403039;
+}
+
+.big {
+    width: 600px;
 }
 
 button{
