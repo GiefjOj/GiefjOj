@@ -1,0 +1,89 @@
+body { 
+    margin:0px; 
+    padding:10px;
+    background-color: #C2BBA9;
+    color: #403039;
+} 
+
+div.header {
+    margin-top: 30px;
+}
+
+p {
+    font-family: Bookman Old Style; 
+}
+
+ul {
+    font-family: Bookman Old Style;
+}
+
+h1 {
+    font-family: impact;
+}
+
+div.center {
+    margin-top: 330px;
+}
+
+div { 
+    width: 1000px;
+    height: 30px; 
+    margin: 0px auto; 
+}
+
+.transparent-text {
+    opacity: 0;
+}
+
+
+a {
+    line-height: 3em;
+    width: 10em;
+    text-decoration: none;
+    height: 3em;
+    font-family: impact;
+    float: right;
+    border: none;
+    border-radius: 100px;
+    text-align: center;
+    color: #c2bba9;
+    background: #403039;
+    box-shadow: 0 5px 0 #211a1e;
+    margin-left: 15px;
+}
+
+table {
+    width: 800px;
+    margin: auto;
+    font-family: Bookman Old Style; 
+    color: #403039;
+}
+
+button{
+    line-height: 3em;
+    text-decoration: none;
+    width: 10em;
+    font-size: 100%;
+    font-family: impact;
+    height: 3em;
+    border: none;
+    border-radius: 100px;
+    text-align: center;
+    color: #c2bba9;
+    background: #403039;
+    box-shadow: 0 5px 0 #211a1e;
+}
+
+@font-face {
+  font-family: "Impact"; 
+  src: url("styles/fonts/ofont.ru_Impact") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+}
+
+@font-face {
+  font-family: "Bookman Old Style"; 
+  src: url("styles/fonts/ofont.ru_Bookman Old Style") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+}
